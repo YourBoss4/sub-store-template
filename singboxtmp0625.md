@@ -1,3 +1,8 @@
+#Singbox模板🎯。
+#增加去广告，但是还没搞定Adblock可选直连或屏蔽 
+#后续增加屏蔽iOS更新选项。
+#去广告规则来自"adrules-top-ads","geosite-category-ads-all"
+
 {
   "dns": {
     "fakeip": {
