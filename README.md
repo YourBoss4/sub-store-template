@@ -47,6 +47,5 @@ https://raw.githubusercontent.com/xream/scripts/main/surge/modules/sub-store-scr
 
 📦 快速生成 sing-box 机场入口+落地节点 代理链 示例
 
-👏 欢迎评论 & 转发(请保留来源)
-
+#8964防搬运
 1⃣折腾啥 👥 频道 | 👥 群组
